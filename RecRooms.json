@@ -40,6 +40,54 @@
       }
     ]
   },
+  "RecParty2018": {
+    "Room": {
+      "RoomId":402833,
+      "Name":"RecParty2018",
+      "Description":"Use the corresponding GameMode to avoid team shuffle.",
+      "CreatorPlayerId":2635545807,
+      "ImageName":"ActivityRecParty2018.png",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":402833,
+        "RoomSceneLocationId":"9932f88f-3929-43a0-a012-a40b5128e346",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"932ff101b90b43c6ad2188724602c078.room",
+        "MaxPlayers":4,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-09-06T03:22:02.3224184Z"
+      }
+    ],
+    "CoOwners":[],
+    "Host:[],
+    "CheerCount":6465,
+    "FavoriteCount":11049,
+    "VisitCount":91739,
+    "Tags": [
+      {
+        "Tags":"puzzle",
+        "Type:0
+      },
+      {
+        "Tags":"boardgame",
+        "Type":0
+      },
+      {
+        "Tags":"creator2018",
+        "Type:0
+      }
+    ]
+  },
   "DiscGolfLake": {
     "Room": {
       "RoomId": 4,
