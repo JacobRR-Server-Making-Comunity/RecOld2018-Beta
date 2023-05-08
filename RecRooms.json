@@ -925,5 +925,46 @@
         "Type": 2
       }
     ]
-  }
+  },
+  "RecParty2018": {
+    "Room": {
+      "RoomId": 402833,
+      "Name": "RecParty2018",
+      "Description": "Use the corresponding GameMode to avoid team shuffle.",
+      "CreatorPlayerId": 2635545807,
+      "ImageName": "ActivityRecParty2018.png",
+      "State": 0,
+      "Accessibility": 1,
+      "SupportsLevelVoting": false,
+      "IsAGRoom": true,
+      "CloningAllowed": false,
+      "SupportsScreens": true,
+      "SupportsWalkVR": true,
+      "SupportsTeleportVR": true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId": 1,
+        "RoomId": 402833,
+        "RoomSceneLocationId": "0a864c86-5a71-4e18-8041-8124e4dc9d98",
+        "Name": "dormroom2",
+        "IsSandbox": false,
+        "DataBlobName": "932ff101b90b43c6ad2188724602c078.room",
+        "MaxPlayers": 20,
+        "CanMatchmakeInto": true,
+        "DataModifiedAt": "2021-05-23T16:24:13.1922819+10:00"
+      }
+    ],
+    "CoOwners": [],
+    "Hosts": [],
+    "CheerCount": 1,
+    "FavoriteCount": 1,
+    "VisitCount": 1,
+    "Tags": [
+      {
+        "Tag": "rro",
+        "Type": 2
+      }
+    ]
+  },
 }
